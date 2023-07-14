@@ -8,7 +8,8 @@
   <name>Dhanush Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <properties>
-  <sonar.host.url>sqp_106f6ae565d6e2debd3aab1417ad0f8b90c52e73</sonar.host.url>
+  <sonar.host.url>http://15.206.186.199:9000/</sonar.host.url>
+  <sonar.login>sqa_b95a93bfb3ccfea456a44c14b9d0fbf124f371f7</sonar.login>
   </properties>
   <dependencies>
     <dependency>
